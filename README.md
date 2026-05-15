@@ -1,4 +1,12 @@
-# IT-Support Certifications
+*** IT Support Fundamentals & Skills:
+
+Provide first-level customer and technical support for software, hardware, and network connectivity issues with empathy, patience, and clear non-technical break-down. Respond to and resolve support tickets and service requests in a timely and professional manner.
+
+Apply Incident Management best practices to: Log, Categorize, and prioritize support tickets accurately and ensure proper escalation when needed. Have mainained and updated IT knowledge bases to help businesses improve technical support efficiency for employees.
+
+Proficient in Windows Environment & Operating Systems (Windows 10/11) Troubleshooted: SW & HW, Printers/PCs/Laptops/Mobile Devices Troubleshooted: Network Connectivity Wired/Wired technical issues. Utilize Remote Management (RMM): TeamViewer, Zoom/Meet, etc.
+
+Contact:  sql.e4dev@gmail.com
 .
 .
 .
