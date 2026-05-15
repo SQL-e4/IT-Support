@@ -6,10 +6,9 @@ Apply Incident Management best practices to: Log, Categorize, and prioritize sup
 
 Proficient in Windows Environment & Operating Systems (Windows 10/11) Troubleshooted: SW & HW, Printers/PCs/Laptops/Mobile Devices Troubleshooted: Network Connectivity Wired/Wired technical issues. Utilize Remote Management (RMM): TeamViewer, Zoom/Meet, etc.
 
-Contact:  sql.e4dev@gmail.com
-.
-.
-.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 May 2026 - CompTIA - Core 1: Hardware and Network Troubleshooting (Coursera/IBM)
 https://www.coursera.org/account/accomplishments/verify/452O61LQO4FW
